@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14" fill="none"><defs>
+<filter id="filter0_d_0_1" x="-230" y="-49" width="310" height="364" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix" />
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+<feOffset />
+<feGaussianBlur stdDeviation="2.5" />
+<feComposite in2="hardAlpha" operator="out" />
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.13 0" />
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1" />
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape" />
+</filter>
+<clipPath id="bgblur_0_0_1_clip_path" transform="translate(230 49)"><path d="M-225 -22.16C-225 -31.389 -225 -36.0035 -222.596 -39.205C-221.916 -40.111 -221.111 -40.916 -220.205 -41.5962C-217.004 -44 -212.389 -44 -203.16 -44H53.16C62.389 -44 67.0035 -44 70.205 -41.5962C71.111 -40.916 71.916 -40.111 72.5962 -39.205C75 -36.0035 75 -31.389 75 -22.16V288.16C75 297.389 75 302.004 72.5962 305.205C71.916 306.111 71.111 306.916 70.205 307.596C67.0035 310 62.389 310 53.16 310H-203.16C-212.389 310 -217.004 310 -220.205 307.596C-221.111 306.916 -221.916 306.111 -222.596 305.205C-225 302.004 -225 297.389 -225 288.16V-22.16Z" />
+</clipPath></defs>
+<g id="__T20__Count Badge">
+<path d="M0 7C0 3.13401 3.13401 0 7 0C10.866 0 14 3.13401 14 7C14 10.866 10.866 14 7 14C3.13401 14 0 10.866 0 7Z" fill="#17191C" />
+<path id="Count" d="M8.05809 4.12V11H6.81809V5.72C6.32475 6.02667 5.76475 6.20333 5.13809 6.25V5.07C5.87809 4.95667 6.49809 4.64 6.99809 4.12H8.05809Z" fill="white" />
+</g>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="32" viewBox="0 0 140 32" fill="none"><defs>
+<filter id="filter0_d_0_1" x="-145" y="-113" width="310" height="328" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix" />
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+<feOffset />
+<feGaussianBlur stdDeviation="2.5" />
+<feComposite in2="hardAlpha" operator="out" />
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.13 0" />
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1" />
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape" />
+</filter>
+<clipPath id="clip0_0_1">
+<rect width="16" height="16" fill="white" transform="translate(114 8)" />
+</clipPath>
+</defs>
+<g id="__T11__Select Input">
+<g id="Container">
+<g id="Select">
+<path d="M8 0.5H132C136.142 0.5 139.5 3.85786 139.5 8V24C139.5 28.1421 136.142 31.5 132 31.5H8C3.85786 31.5 0.5 28.1421 0.5 24V8C0.5 3.85786 3.85786 0.5 8 0.5Z" fill="white" />
+<path d="M8 0.5H132C136.142 0.5 139.5 3.85786 139.5 8V24C139.5 28.1421 136.142 31.5 132 31.5H8C3.85786 31.5 0.5 28.1421 0.5 24V8C0.5 3.85786 3.85786 0.5 8 0.5Z" stroke="#DEE7F2" />
+<path id="Placeholder Text" d="M12.172 16.22V20H11.14V11.6H16.54V12.524H12.172V15.284H16.216V16.22H12.172ZM17.8412 12.56V11.36H18.9572V12.56H17.8412ZM17.9012 20V13.928H18.8972V20H17.9012ZM23.9854 19.112V20H23.1094C22.5814 20 22.1654 19.892 21.8614 19.676C21.5654 19.452 21.4174 19.02 21.4174 18.38V14.816H20.2534V13.928H21.4174V12.308L22.4134 12.032V13.928H23.8414V14.816H22.4134V18.26C22.4134 18.564 22.4694 18.784 22.5814 18.92C22.7014 19.048 22.9134 19.112 23.2174 19.112H23.9854Z" fill="#17191C" />
+<g id="arrow-down-01-solid" clip-path="url(#clip0_0_1)">
+<g id="arrow-down-01">
+<path id="Vector" d="M126.395 13.4632C126.692 13.6816 126.755 14.0989 126.537 14.3954C126.367 14.6256 126.197 14.8445 126.049 15.0352C125.752 15.4157 125.343 15.9255 124.898 16.4371C124.457 16.9454 123.968 17.4709 123.511 17.8746C123.283 18.0757 123.048 18.2607 122.818 18.3991C122.607 18.5263 122.317 18.6667 122 18.6667C121.682 18.6667 121.392 18.5263 121.181 18.3991C120.952 18.2607 120.716 18.0757 120.489 17.8746C120.032 17.4709 119.542 16.9454 119.101 16.4371C118.657 15.9255 118.248 15.4157 117.951 15.0352C117.802 14.8445 117.633 14.6256 117.463 14.3954C117.245 14.0989 117.308 13.6816 117.604 13.4632C117.724 13.3755 117.862 13.3332 118 13.3333H122H126C126.137 13.3332 126.276 13.3755 126.395 13.4632Z" fill="#17191C" />
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>

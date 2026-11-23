@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="17" viewBox="0 0 22 17" fill="none"><defs>
+<clipPath id="bgblur_0_0_1_clip_path" transform="translate(104 103.707)"><path d="M-24 -1.86732C-24 -11.0963 -24 -15.7108 -21.5962 -18.9124C-20.916 -19.8183 -20.111 -20.6233 -19.205 -21.3035C-16.0035 -23.7073 -11.389 -23.7073 -2.16 -23.7073H321.16C330.389 -23.7073 335.004 -23.7073 338.205 -21.3035C339.111 -20.6233 339.916 -19.8183 340.596 -18.9124C343 -15.7108 343 -11.0963 343 -1.86732V18.4527C343 27.6817 343 32.2962 340.596 35.4977C339.916 36.4037 339.111 37.2087 338.205 37.8889C335.004 40.2927 330.389 40.2927 321.16 40.2927H-2.16001C-11.389 40.2927 -16.0035 40.2927 -19.205 37.8889C-20.111 37.2087 -20.916 36.4037 -21.5962 35.4977C-24 32.2962 -24 27.6817 -24 18.4527V-1.86732Z" />
+</clipPath><filter id="filter1_d_0_1" x="-21" y="-16.7073" width="64" height="58" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix" />
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+<feOffset dy="4" />
+<feGaussianBlur stdDeviation="4.5" />
+<feComposite in2="hardAlpha" operator="out" />
+<feColorMatrix type="matrix" values="0 0 0 0 0.796078 0 0 0 0 0.823529 0 0 0 0 0.870588 0 0 0 0.75 0" />
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1" />
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape" />
+</filter>
+<clipPath id="clip1_0_1">
+<rect width="22" height="16.4334" fill="white" />
+</clipPath>
+</defs>
+<g id="__T01__Logomark">
+<g id="T Logo" clip-path="url(#clip1_0_1)">
+<path id="T Logo_2" d="M22 1.32227H15.1631V3.30566H22V4.62793H15.1631V6.6123H22V7.93457H15.1631V16.4336H13.7754V7.93457H11.6934V16.4336H10.3066V7.93457H8.22461V16.4336H6.83691V7.93457H0V6.6123H6.83691V4.62793H0V3.30566H6.83691V1.32227H0V0H22V1.32227ZM11.6934 4.62793V6.6123H13.7754V4.62793H11.6934ZM8.22461 6.6123H10.3066V4.62793H8.22461V6.6123ZM11.6934 1.32227V3.30566H13.7754V1.32227H11.6934ZM8.22461 3.30566H10.3066V1.32227H8.22461V3.30566Z" fill="black" />
+</g>
+</g>
+</svg>
